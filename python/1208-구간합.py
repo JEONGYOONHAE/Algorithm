@@ -29,8 +29,3 @@ for tc in range(1, T+1):
     result = max_value - min_value
 
     print(f'#{tc} {result}')
-
-
-
-
-
